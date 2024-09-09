@@ -1,0 +1,6 @@
+Flask==2.2.2
+Flask-GraphQL==2.0.1
+Flask-JWT-Extended==4.4.3
+graphene==3.1.0
+flask-cors==3.0.10
+pandas==2.0.3
